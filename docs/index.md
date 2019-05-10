@@ -13,7 +13,7 @@ hide_bc: true
     <h1>NuGet Documentation</h1>
     <ul class="pivots">
         <li>
-            <a href="#consume">Consume</a>
+            <a href="#consume">Consume packages</a>
             <ul id="consume">
                 <li>
                     <a href="#consume-all"></a>
@@ -98,7 +98,7 @@ hide_bc: true
             </ul>
         </li>
         <li>
-            <a href="#create">Create</a>
+            <a href="#create">Create packages</a>
             <ul id="create">
                 <li>
                     <a href="#create-all"></a>
@@ -183,7 +183,7 @@ hide_bc: true
             </ul>
         </li>
         <li>
-            <a href="#tools">Tools &amp; Reference</a>
+            <a href="#tools">Reference</a>
             <ul id="tools">
                 <li>
                     <a href="#tools-all"></a>

@@ -1,6 +1,6 @@
 # [NuGet - Create packages](../index.md#pivot=create)
 # Overview
-## [What is NuGet?](../what-is-nuget.md)
+## [What is NuGet?](../what-is-nuget?toc=/nuget/create-packages/toc.json)
 ## [Overview and workflow](overview-and-workflow.md)
 # Quickstarts
 ## [Create and publish a NET Standard package (dotnet CLI)](../quickstart/create-and-publish-a-package-using-the-dotnet-cli.md)

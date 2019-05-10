@@ -1,6 +1,6 @@
 # [NuGet - Consume packages](../index.md#pivot=consume)
 # Overview
-## [What is NuGet?](../what-is-nuget.md)
+## [What is NuGet?](../what-is-nuget?toc=/nuget/consume-packages/toc.json)
 ## [Overview and workflow](overview-and-workflow.md)
 ## [Install packages](ways-to-install-a-package.md)
 ## [Signed packages](installing-signed-packages.md)
