@@ -4,7 +4,7 @@
 ## [What is NuGet?](../what-is-nuget.md)
 ## [Overview and workflow](overview-and-workflow.md)
 ## [Install packages](ways-to-install-a-package.md)
-### [Signed packages](installing-signed-packages.md)
+## [Signed packages](installing-signed-packages.md)
 # Quickstarts
 ## [Install and use a package (dotnet CLI)](../quickstart/install-and-use-a-package-using-the-dotnet-cli.md)
 ## [Install and use a package (Visual Studio)](../quickstart/install-and-use-a-package-in-visual-studio.md)
