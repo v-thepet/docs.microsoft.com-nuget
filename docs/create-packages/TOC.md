@@ -1,5 +1,4 @@
 # [NuGet documentation](../index.md)
-# [NuGet - Consume packages](../consume-packages/ways-to-install-a-package.md)
 # NuGet - Create packages
 # Overview
 ## [What is NuGet?](../what-is-nuget.md)
