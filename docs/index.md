@@ -13,11 +13,11 @@ hide_bc: true
     <h1>NuGet Documentation</h1>
     <ul class="pivots">
         <li>
-            <a href="#start">Get Started</a>
-            <ul id="start">
+            <a href="#consume">Consume</a>
+            <ul id="consume">
                 <li>
-                    <a href="#start-all"></a>
-                    <ul id="start-all" class="cardsC">
+                    <a href="#consume-all"></a>
+                    <ul id="consume-all" class="cardsC">
                         <li>
                             <a href="what-is-nuget.md">
                             <div class="cardSize">
@@ -56,6 +56,72 @@ hide_bc: true
                             </a>
                         </li>
                         <li>
+                            <a href="consume-packages/overview-and-workflow.md">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage  bgdAccent1">
+                                                <img src="media/hub/nuget-get-started-consume-packages.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Consume packages</h3>
+                                            <p>Everything you need to know about using NuGet packages, from finding and choosing good packages to restoration updates, and caching.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="hosting-packages/overview.md">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage  bgdAccent1">
+                                                <img src="media/hub/nuget-get-started-host-packages.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Host packages</h3>
+                                            <p>Learn how to host packages on your own servers or galleries to make them available to only a limited audience.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#create">Create</a>
+            <ul id="create">
+                <li>
+                    <a href="#create-all"></a>
+                    <ul id="create-all" class="cardsC">
+                        <li>
+                            <a href="what-is-nuget.md">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage  bgdAccent1">
+                                                <img src="media/hub/nuget-get-started-what-is-nuget.svg" alt="" /><br/>                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>What is NuGet?</h3>
+                                            <p>Learn how NuGet, the package manager for .NET, allows developers to create, share, and consume libraries.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
                             <a href="quickstart/create-and-publish-a-package-using-the-dotnet-cli.md">
                             <div class="cardSize">
                                 <div class="cardPadding">
@@ -87,25 +153,6 @@ hide_bc: true
                                         <div class="cardText">
                                             <h3>Create packages</h3>
                                             <p>Everything you need to know about creating NuGet packages, from overall workflow to versioning, pre-release, &amp; other specialized packages.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="consume-packages/overview-and-workflow.md">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage  bgdAccent1">
-                                                <img src="media/hub/nuget-get-started-consume-packages.svg" alt="" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Consume packages</h3>
-                                            <p>Everything you need to know about using NuGet packages, from finding and choosing good packages to restoration updates, and caching.</p>
                                         </div>
                                     </div>
                                 </div>

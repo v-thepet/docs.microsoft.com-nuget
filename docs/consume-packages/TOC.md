@@ -1,5 +1,4 @@
-# [NuGet - Create packages](../create-packages/creating-a-package.md)
-# NuGet - Consume packages
+# [NuGet - Consume packages](../index.md#pivot=consume)
 # Overview
 ## [What is NuGet?](../what-is-nuget.md)
 ## [Overview and workflow](overview-and-workflow.md)
