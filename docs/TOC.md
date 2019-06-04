@@ -29,6 +29,7 @@
 ## [Creating Symbol packages](create-packages/symbol-packages-snupkg.md)
 ## [Signing packages](create-packages/sign-a-package.md)
 ## [Publishing a package](create-packages/publish-a-package.md)
+## [Explicit Assembly Reference](create-packages/explicit-assembly-reference.md)
 ## Guides
 ### [Create UWP packages](guides/create-uwp-packages.md)
 ### [Creating UI controls as NuGet packages](guides/create-UI-controls.md)
